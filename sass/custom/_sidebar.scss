@@ -52,6 +52,7 @@
 }
 	.author-avatar,
 	.avatar-image {@include border-radius(9999px);}
+	img.avatar-image{ height: 85px;}
 .author-name {font-family: "Nexa Light", "Helvetica Neue", Helvetica, sans-serif, Helvetica, sans-serif; margin:1em 0 .3em}
 .author-bio {padding:0 10%}
 
